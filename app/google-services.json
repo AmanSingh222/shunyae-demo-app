@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296941053496",
+    "project_id": "application--task",
+    "storage_bucket": "application--task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296941053496:android:27c0409a3d266fa1ba28cd",
+        "android_client_info": {
+          "package_name": "com.example.shunyaekaiassignmentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkxrXj_mV8czIEjzmOEHOMtmhvw9fofv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
